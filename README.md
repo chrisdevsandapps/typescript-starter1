@@ -1,4 +1,10 @@
 
+# README
+
+# Steps:
+
+
+### 1:
 
 ```console
 $ npm init
@@ -8,6 +14,10 @@ $ npm init
 $ npm install typescript --save-dev
 ```
 
+
+
+### 2:
+
 ```console
 "scripts: {
   ...
@@ -15,10 +25,17 @@ $ npm install typescript --save-dev
 }
 ```
 
+
+
+### 3:
+
 ```console
 $ npm run tsc -- --init
 ```
 
+
+
+### 4:
 
 to test:
 
@@ -28,3 +45,5 @@ create index.ts
 ```console
 npm run tsc index.ts
 ```
+
+output is: index.js
