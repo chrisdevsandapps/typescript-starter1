@@ -19,7 +19,7 @@ $ npm install typescript --save-dev
 ### 2:
 
 ```console
-"scripts: {
+"scripts": {
   ...
   "tsc": "tsc"
 }
